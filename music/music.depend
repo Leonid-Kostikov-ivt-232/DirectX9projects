@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1750780147 source:c:\projectc\tmnt\music\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<dsound.h>
+	<iostream>
+
