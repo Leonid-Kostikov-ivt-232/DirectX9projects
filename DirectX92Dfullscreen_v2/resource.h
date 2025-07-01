@@ -1,0 +1,1 @@
+#define IDB_BACKGROUND_PNG 101

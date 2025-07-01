@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1745082336 source:c:\projectc\directx9\directx92dfullscreen_v4\cleanup.cpp
+	"InitDX93D.h"
+	"cleanup.h"
+
+1745082144 c:\projectc\directx9\directx92dfullscreen_v4\initdx93d.h
+	<d3d9.h>
+	<d3dx9.h>
+
+1745080717 c:\projectc\directx9\directx92dfullscreen_v4\cleanup.h
+
+1745082336 source:c:\projectc\directx9\directx92dfullscreen_v4\initdx93d.cpp
+	"InitDX93D.h"
+
+1745082336 source:c:\projectc\directx9\directx92dfullscreen_v4\render.cpp
+	"InitDX93D.h"
+	"render.h"
+
+1745080717 c:\projectc\directx9\directx92dfullscreen_v4\render.h
+
+1745082336 source:c:\projectc\directx9\directx92dfullscreen_v4\pak_archive.cpp
+	"InitDX93D.h"
+	"pak_archive.h"
+
+1745081785 c:\projectc\directx9\directx92dfullscreen_v4\pak_archive.h
+	<fstream>
+	<unordered_map>
+	<string>
+	<vector>
+
+1745082336 source:c:\projectc\directx9\directx92dfullscreen_v4\main.cpp
+	<windows.h>
+	"InitDX93D.h"
+	"pak_archive.h"
+	"render.h"
+	"cleanup.h"
+

@@ -1,0 +1,3 @@
+#include "resource.h"
+
+IDR_BACKGROUND RCDATA "data/background.png"

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1744976844 source:c:\projectc\directx9\directx92dfullscreen_v2\resource.rc
+	"resource.h"
+
+1744977527 c:\projectc\directx9\directx92dfullscreen_v2\resource.h
+
+1744977527 source:c:\projectc\directx9\directx92dfullscreen_v2\main.cpp
+	<d3d9.h>
+	<d3dx9.h>
+	<windows.h>
+	"resource.h"
+
